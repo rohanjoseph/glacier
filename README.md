@@ -1,4 +1,4 @@
-# glacier
+# AWS glacier Upload Script
 Scritpt to upload and download the file from aws glacier
 
 
